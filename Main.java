@@ -1,5 +1,5 @@
 /********************************************
-*	DEVELOPER:	<name>
+*	DEVELOPER: Lizzie Cooper
 * COLLABORATORS: <names>
 *	LAST MODIFIED:	<date>
 ********************************************/
